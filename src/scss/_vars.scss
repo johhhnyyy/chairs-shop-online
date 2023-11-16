@@ -3,10 +3,18 @@
 :root {
   // base
   --font-family: "Open Sans", sans-serif;
-  --content-width: 1170px;
+  --content-width: 1110px;
   --container-offset: 15px;
   --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
 
   // colors
-  --light-color: #fff;
+  --light-color: #FFFFFF;
+  --primary1: #F13C6E;
+  --primary2: #333333;
+  --primary3: #EFEFEF;
+  // text-color
+  --title-text-color: #000000;
+  --link-text-color: #000000;
+  --main-text-color: #FFFFFF;
+  --info-text-color: #333333;
 }
